@@ -18,7 +18,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   int _selectedIndex = 1;
-  bool isLogged = false;
+  bool isLogged = true;
 
   void navigateBottomBar(int index) {
     setState(() {
