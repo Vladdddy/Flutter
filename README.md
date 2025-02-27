@@ -4,35 +4,10 @@ Welcome to **Your App Name** – a Flutter-based mobile application designed to 
 
 ## 🚀 Features
 
-- ✨ Feature 1: [Describe the feature]
-- 📌 Feature 2: [Describe the feature]
-- 🔥 Feature 3: [Describe the feature]
+- ✨ E-Shop: [A small e-commerce amazon look alike app]
+- 📌 Solo Leveling: [Replica of Solo Leveling anime interface system]
+- 🔥 Money Save: [A fully functional money savings tracking app]
 - And more...
-
-## 📸 Screenshots
-
-| Home Screen | Feature Screen |
-|------------|--------------|
-| ![Home](screenshots/home.png) | ![Feature](screenshots/feature.png) |
-
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd your-app-name
-   ```
-3. Install dependencies:
-   ```sh
-   flutter pub get
-   ```
-4. Run the app:
-   ```sh
-   flutter run
-   ```
 
 ## 🔧 Requirements
 
