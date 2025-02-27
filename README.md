@@ -33,5 +33,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-📩 For queries or suggestions, feel free to reach out at [your-email@example.com].
+📩 For queries or suggestions, feel free to reach out at [bukatorvladyslav@gmail.com].
 
